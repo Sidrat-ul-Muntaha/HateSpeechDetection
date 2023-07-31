@@ -16,6 +16,7 @@ Hate speech becoming more prevalent on Social media platforms. It's getting wors
 
 ## Web App
 The implementation of the web app involves using Python, machine learning algorithms, and Flask framework.
+
 ![Hate Speech Detection](images/HateSpeech.jpg)
 
 ## Hate Speech Detected
@@ -24,3 +25,9 @@ The implementation of the web app involves using Python, machine learning algori
 
 ## No Hate and Offense Detected
 ![No Hate and Offense](images/HateSpeech3.jpg)
+
+## Demo Video Link
+If you're curious about how our web app works, we've got you covered! Check out the demo video here: 
+[Hate Speech Detection Video](https://www.youtube.com/watch?v=jdFQ80g9sWI)
+
+
