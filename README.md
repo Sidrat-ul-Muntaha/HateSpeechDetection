@@ -31,3 +31,6 @@ If you're curious about how our web app works, we've got you covered! Check out 
 [Hate Speech Detection Video](https://www.youtube.com/watch?v=jdFQ80g9sWI)
 
 
+## Deployed on PythonAnywhere
+[Hate Speech Detection Web App Link](http://sidratulmuntaha.pythonanywhere.com/)
+
