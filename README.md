@@ -32,5 +32,5 @@ If you're curious about how our web app works, we've got you covered! Check out 
 
 
 ## Deployed on PythonAnywhere
-[Hate Speech Detection Web App Link](http://sidratulmuntaha.pythonanywhere.com/)
+[Hate Speech Detection Web App Link](http://sidratulmuntahausmani.pythonanywhere.com/)
 
